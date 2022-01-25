@@ -1,0 +1,17 @@
+{
+  "common": {
+    "hello": "你好",
+    "home": "首页",
+    "baobei": "我家小宝贝真可爱",
+    "errorTip": "错误提示"
+  },
+  "login": {
+    "login": "登陆 / 注册",
+    "loginGetCode": "获取验证码",
+    "loginResend": "重新发送",
+    "loginValuablePhone": "请输入正确的手机号"
+  },
+  "home": {
+    "title": "首页"
+  }
+}

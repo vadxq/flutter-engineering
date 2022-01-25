@@ -44,3 +44,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# generated
+/lib/generated/
+/lib/app/generated/
+/lib/app/data/models/providers/

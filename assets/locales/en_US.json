@@ -1,0 +1,17 @@
+{
+  "common": {
+    "hello": "hello",
+    "home": "home",
+    "baobei": "baobei",
+    "errorTip": "error"
+  },
+  "login": {
+    "login": "login in / login up",
+    "loginGetCode": "get code",
+    "loginResend": "resend",
+    "loginValuablePhone": "please input valuable phone"
+  },
+  "home": {
+    "title": "home"
+  }
+}
