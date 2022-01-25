@@ -1,4 +1,4 @@
-package com.example.engineering
+package com.vadxq.flutter.flutter_engineering
 
 import io.flutter.embedding.android.FlutterActivity
 
