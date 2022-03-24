@@ -7,6 +7,8 @@ class Initializer {
     try {
       WidgetsFlutterBinding.ensureInitialized();
       await _initStorage();
+      final _getStorage = Get.find<GetStorage>();
+      _getStorage.write('isDarkMode', 'false');
     } catch (err) {
       rethrow;
     }
